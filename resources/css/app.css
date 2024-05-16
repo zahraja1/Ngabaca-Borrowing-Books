@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+  @import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@500&display=swap');
+
+#title{
+    font-family: 'Kalnia', serif;;
+    }
+.library{
+    font-family: 'Poppins', sans-serif;
+    }
+   
